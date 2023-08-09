@@ -50,6 +50,7 @@ img.hero-image {
 .hero-section {
     overflow: auto;
     background-image: none;
+    background-color:beige;
 
 }
 
