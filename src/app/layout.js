@@ -2,7 +2,7 @@
 
 import '../app/globals.css'
 
-import '/responsive.css'
+import '../app/responsive.css'
 import '../app/custom.css'
 
 import { Inter } from 'next/font/google'
@@ -10,7 +10,7 @@ import Script from 'next/script'
 import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
-
+  
 
 
 export const metadata = {
