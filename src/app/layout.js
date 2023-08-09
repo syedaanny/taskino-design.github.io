@@ -2,8 +2,9 @@
 
 import '../app/globals.css'
 
-import './app/responsive.css'
-import './app/custom.css'
+import '../app/responsive.css'
+import '../app/custom.css'
+
 
 
 
