@@ -307,6 +307,9 @@ img.img-fluid.right-side-img-4 {
 .right-images {
     position: relative;
 }
-
+.left-title-dec h1 {
+    font-size: 1.7rem;
+    padding-bottom: 1.03rem;
+}
 
 }
