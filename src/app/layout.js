@@ -1,9 +1,10 @@
 
 
 import '../app/globals.css'
-import '../app/custom.css'
 
 import '/responsive.css'
+import '../app/custom.css'
+
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import Head from 'next/head'
