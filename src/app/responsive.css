@@ -271,3 +271,42 @@
         max-height: 86vh
     }
 }
+
+@media screen and (max-width: 320px) {
+
+
+img.img-fluid.right-side-img-2.display-right-images {
+    top: -7vh;
+}
+
+.left-side.justify-content-center {
+    height: auto;
+}
+
+.col.col-lg-5.col-md-6.left-side-col {
+    height: 92vh;
+}
+
+img.hero-mobile-svg {
+    bottom: -116px;
+}
+
+img.img-fluid.right-side-img-3.image {
+    top: 29vh;
+}
+
+img.img-fluid.right-side-img-4 {
+    top: -27vh;
+}
+
+.mobile-background {
+    position: relative;
+    height: 69vh;
+}
+
+.right-images {
+    position: relative;
+}
+
+
+}
