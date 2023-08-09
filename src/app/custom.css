@@ -1,235 +1,235 @@
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&family=Plus+Jakarta+Sans:ital,wght@0,600;1,500;1,600&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&family=Plus+Jakarta+Sans:ital,wght@0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&display=swap');
 
 
-  img.hero-mobile-svg {
-    display: none;
+img.hero-mobile-svg {
+  display: none;
 }
 
-  img.brand-img {
-    position: relative;
+img.brand-img {
+  position: relative;
 width: 4.82rem;
 height: 4.82rem;
 
-  }
-  .nav-link{
-    color: rgb(63 58 58 / 65%);
-  }
+}
+.nav-link{
+  color: rgb(63 58 58 / 65%);
+}
 
-  .navbar-menu-list {
-    font-family: inherit;
-    font-weight: 600;
-    font-size: 1rem;
-    vertical-align: center;
-    line-height: 1.6rem;
-    align-self: center;
-    /* color: #c5bfbf; */
+.navbar-menu-list {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 1rem;
+  vertical-align: center;
+  line-height: 1.6rem;
+  align-self: center;
+  /* color: #c5bfbf; */
 }
 
 .login-btn {
-    border: .01em solid #807e7e;
-    font-weight: 600;
-    font-size: 1.1rem;
-    margin-right: 1em;
-    color: #525252;
+  border: .01em solid #807e7e;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-right: 1em;
+  color: #525252;
 }
 
 .login-btn:hover {
-    border: .01em solid #807e7e;
+  border: .01em solid #807e7e;
 }
 
 .signup-btn {
-    font-size: 1.1rem;
-    /* background-color: #0099ff; */
-    background-color:black;
-    box-shadow: 0px 10px 20px rgba(38, 158, 238, 0.25);
-    border: 0.0102em solid #0099ffde;
-    color: white;
-    margin-right: 1em;
+  font-size: 1.1rem;
+  /* background-color: #0099ff; */
+  background-color:black;
+  box-shadow: 0px 10px 20px rgba(38, 158, 238, 0.25);
+  border: 0.0102em solid #0099ffde;
+  color: white;
+  margin-right: 1em;
 }
 
 .signup-btn:hover {
-    background-color: #0A9DFF;
-    color: white;
+  background-color: #0A9DFF;
+  color: white;
 }
 
 .hero-section {
-    background-color: #EEfAFF;
-    background-image: url(/img/background_upper_wave.png);
-    height: 100vh;
-    width: 100vw;
-    position: absolute;
-    top: 0em;
-    background-repeat: no-repeat;
-    background-size: 100% 78%;
-    margin: 0;
-    overflow: hidden;
+  background-color: #EEfAFF;
+  background-image: url(/img/background_upper_wave.png);
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0em;
+  background-repeat: no-repeat;
+  background-size: 100% 78%;
+  margin: 0;
+  overflow: hidden;
 }
 
 img.rectangle-img2 {
-    position: absolute;
-    max-width: 22vw;
-    height: 22.19rem;
-    transform: translate(-12em, 3em);
-    -o-object-fit: contain;
-    object-fit: contain;
+  position: absolute;
+  max-width: 22vw;
+  height: 22.19rem;
+  transform: translate(-12em, 3em);
+  -o-object-fit: contain;
+  object-fit: contain;
 }
 
 img.rectangle-img {
-    position: absolute;
-    width: 13em;
-    height: 16em;
-    top: 6em;
-    left: -3.4em;
-    opacity: .8;
+  position: absolute;
+  width: 13em;
+  height: 16em;
+  top: 6em;
+  left: -3.4em;
+  opacity: .8;
 }
 
 .left-side {
-    width: auto;
-    height: auto;
-    padding: 2.4vw 0.1vw 0vw 6vw;
+  width: auto;
+  height: auto;
+  padding: 2.4vw 0.1vw 0vw 6vw;
 }
 
 span.taskino {
-    background: linear-gradient(267.36deg, #0099ff, #76c6fb);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 2.8rem;
-    font-family: 'Plus Jakarta Sans', sans-serif;
-    font-weight: bold;
+  background: linear-gradient(267.36deg, #0099ff, #76c6fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2.8rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: bold;
 }
 
 .left-title-dec h1 {
-    position: relative;
-    line-height: 1.205em;
-    text-align: left;
-    font-size: 3.4153vw;
-    width: auto;
-    color: black;
-    font-weight: bold;
-    font-family: 'Plus Jakarta Sans', sans-serif;
-    padding-bottom: 0.32em;
+  position: relative;
+  line-height: 1.205em;
+  text-align: left;
+  font-size: 3.4153vw;
+  width: auto;
+  color: black;
+  font-weight: bold;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  padding-bottom: 0.32em;
 }
 
 p.left-dec {
-    position: relative;
-    font-size: clamp(.91rem, 0vw + 0rem, 7rem);
-    line-height: 1.3rem;
-    font-weight: 600;
-    font-family: var(--font-plus-jakarta-sans);
-    color: #525252;
-    text-align: left;
-    display: inline-block;
-    width: auto;
+  position: relative;
+  font-size: clamp(.91rem, 0vw + 0rem, 7rem);
+  line-height: 1.3rem;
+  font-weight: 600;
+  font-family: var(--font-plus-jakarta-sans);
+  color: #525252;
+  text-align: left;
+  display: inline-block;
+  width: auto;
 }
 
 .left-title-btn {
-    width: auto;
-    padding-top: 1.3em;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+  width: auto;
+  padding-top: 1.3em;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 img.googleplay-img {
-    width: 100%;
-    height: 3.54em;
+  width: 100%;
+  height: 3.54em;
 }
 
 /* reviews */
 .review-box {
-  
-    width: 100%;
+
+  width: 100%;
 }
 
 img.review-img {
-    width: 61%;
-    margin-top: -1em;
+  width: 61%;
+  margin-top: -1em;
 }
 
 
 
 /* RIGNT SIDE CSS */
 /* img.right-side-img-1 {
-    position: fixed;
-    right: 0;
-    top: 14em;
-    width: 12%;
+  position: fixed;
+  right: 0;
+  top: 14em;
+  width: 12%;
 
 }
 
 
 img.right-side-img-2 {
-    width: 99%;
-    height: 81vh;
-    position: relative;
-    top: -6em;
-    right: -3.54em;
+  width: 99%;
+  height: 81vh;
+  position: relative;
+  top: -6em;
+  right: -3.54em;
 }
- */
+*/
 
- 
+
 .col.col-7.right-side {
-    max-width: 55%;
-    height: 80vh;
-    position: relative;
-    top: 0;
-    left: 0;
-    right: 0;
+  max-width: 55%;
+  height: 80vh;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 .right-images {
-    position: relative;
-    max-width: 100%;
-    height: auto;
-  }
-  
-  .right-images img {
-    height: 94vh;
-    z-index: 3;
-    left: -6em;
-    -o-object-fit: fill;
-    object-fit: fill;
-    position: absolute;
-  }
-  
-  img.right-side-img-2.display-right-images {
-    max-width: 65vw;
-    position: relative;
-    -o-object-fit: fill;
-    object-fit: fill;
-    left: -4vw;
-    max-height: 80vh;
+  position: relative;
+  max-width: 100%;
+  height: auto;
 }
-  
-  img.right-side-img-1.image {
-    max-width: 25vw;
-    height: 50vh;
-    position: absolute;
-    top: 23vh;
-    left: 33vw;
-    z-index: 2;
-  }
-  
-  img.right-side-img-4 {
-    position: absolute;
-    left: 22vw;
-    height: 32em;
-    top: -4vh;
-    transform: rotate(188deg);
-    width: 78%;
-    border-radius: 50%;
-    filter: blur(2em);
-  }
-  
-  img.right-side-img-3.image {
-    position: absolute;
-    left: 4.051vw;
-    top: 40vh;
-    width: 24vw;
-    /* transform: scaleY(1.40225); */
-    z-index: 1;
-    padding-bottom: 1em;
-    max-height: 48vh;
-  }
+
+.right-images img {
+  height: 94vh;
+  z-index: 3;
+  left: -6em;
+  -o-object-fit: fill;
+  object-fit: fill;
+  position: absolute;
+}
+
+img.right-side-img-2.display-right-images {
+  max-width: 65vw;
+  position: relative;
+  -o-object-fit: fill;
+  object-fit: fill;
+  left: -4vw;
+  max-height: 80vh;
+}
+
+img.right-side-img-1.image {
+  max-width: 25vw;
+  height: 50vh;
+  position: absolute;
+  top: 23vh;
+  left: 33vw;
+  z-index: 2;
+}
+
+img.right-side-img-4 {
+  position: absolute;
+  left: 22vw;
+  height: 32em;
+  top: -4vh;
+  transform: rotate(188deg);
+  width: 78%;
+  border-radius: 50%;
+  filter: blur(2em);
+}
+
+img.right-side-img-3.image {
+  position: absolute;
+  left: 4.051vw;
+  top: 40vh;
+  width: 24vw;
+  /* transform: scaleY(1.40225); */
+  z-index: 1;
+  padding-bottom: 1em;
+  max-height: 48vh;
+}
