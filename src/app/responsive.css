@@ -51,6 +51,7 @@ img.hero-image {
     overflow: auto;
     background-image: none;
     background-color:beige;
+    height:60vh;
 
 }
 
