@@ -3,7 +3,7 @@
 import '../app/globals.css'
 import '../app/custom.css'
 
-import '../app/responsive.css'
+import '/responsive.css'
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import Head from 'next/head'
@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 
 export const metadata = {
-  title: 'Taskino | A task management and productivity app ',
+  // title: 'Taskino | A task management and productivity app ',
   description: 'Taskino- a task management and productivity app',
 }
 

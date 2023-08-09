@@ -202,6 +202,10 @@ img.img-fluid.right-side-img-4 {
 
 /* Media query for tablet devices */
  @media (min-width: 200px) and (max-width: 402px) {
+    .hero-section {
+        overflow: auto;
+        background-image: none;
+    }
 
       /* for navbar */
       nav.navbar.navbar-expand-lg {
@@ -311,6 +315,11 @@ font-size: 1.6rem;
 
 
  @media (min-width: 307px) and (max-width: 371px) {
+
+    .hero-section {
+        overflow: auto;
+        background-image: none;
+    }
 
       /* for navbar */
       nav.navbar.navbar-expand-lg {
